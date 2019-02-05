@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "cryo",
+    "name": "Cryo Mod",
+    "version": "${version}",
+    "mcversion": "${mc_version}",
+    "description": "Cryo gun mod ... maybe",
+    "credits": "Pahimar for explaining the mod creation process",
+    "url": "https://jarviswork.wordpress.com/",
+    "updateUrl": "",
+    "authorList": ["Dean Jarvis"],
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": ["mod_MinecraftForge"]
+  }
+]
